@@ -23,7 +23,7 @@ import org.springframework.context.annotation.Bean;
 /**
  * {@link NoUniqueBeanDefinitionException} 示例代码
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @since
  */
 public class NoUniqueBeanDefinitionExceptionDemo {

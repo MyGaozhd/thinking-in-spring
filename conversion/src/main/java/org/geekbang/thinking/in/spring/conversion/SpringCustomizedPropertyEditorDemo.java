@@ -26,7 +26,7 @@ import java.beans.PropertyEditor;
 /**
  * Spring 自定义 {@link PropertyEditor} 示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @see PropertyEditor
  * @since
  */

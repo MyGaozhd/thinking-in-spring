@@ -23,7 +23,7 @@ import org.springframework.core.env.Environment;
 /**
  * {@link Profile} 示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @see Profile
  * @see Environment#getActiveProfiles()
  * @since

@@ -30,7 +30,7 @@ import java.util.Map;
 /**
  * 基于 Java 注解的 YAML 外部化配置示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @since
  */
 @PropertySource(
@@ -40,7 +40,7 @@ import java.util.Map;
 public class AnnotatedYamlPropertySourceDemo {
 
     /**
-     * user.name 是 Java Properties 默认存在，当前用户：mercyblitz，而非配置文件中定义"小马哥"
+     * user.name 是 Java Properties 默认存在，当前用户：mercyblitz，而非配置文件中定义"Servi"
      *
      * @param id
      * @param name

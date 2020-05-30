@@ -28,7 +28,7 @@ import java.util.stream.Stream;
 /**
  * 注入 {@link Resource} 对象示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @see Resource
  * @see Value
  * @see AnnotationConfigApplicationContext

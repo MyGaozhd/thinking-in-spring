@@ -23,7 +23,7 @@ import java.lang.annotation.*;
 /**
  * 自定义注解（元标注 @Autowired）
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @since
  */
 @Target({ElementType.CONSTRUCTOR, ElementType.METHOD, ElementType.FIELD})

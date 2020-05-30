@@ -25,7 +25,7 @@ import java.util.Map;
 /**
  * 基于 XML 资源的 YAML 外部化配置示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @since
  */
 public class XmlBasedYamlPropertySourceDemo {

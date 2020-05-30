@@ -22,7 +22,7 @@ import org.springframework.context.annotation.Bean;
 /**
  * BeanFactory 循环引用（依赖）示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @since
  */
 public class CircularReferencesDemo {

@@ -24,7 +24,7 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
 /**
  * {@link BeanInstantiationException} 实例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @since
  */
 public class BeanInstantiationExceptionDemo {

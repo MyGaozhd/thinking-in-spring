@@ -24,7 +24,7 @@ import java.lang.annotation.Target;
 /**
  * 超级
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @since
  */
 @Target(ElementType.TYPE)

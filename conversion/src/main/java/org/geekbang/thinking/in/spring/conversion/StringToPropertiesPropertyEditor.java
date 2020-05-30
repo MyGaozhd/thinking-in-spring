@@ -26,7 +26,7 @@ import java.util.Properties;
 /**
  * String -> Properties {@link PropertyEditor}
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @since PropertyEditor
  */
 public class StringToPropertiesPropertyEditor extends PropertyEditorSupport implements PropertyEditor {

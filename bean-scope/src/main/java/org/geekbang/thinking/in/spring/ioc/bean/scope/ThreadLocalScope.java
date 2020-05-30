@@ -28,7 +28,7 @@ import java.util.Map;
 /**
  * ThreadLocal 级别 Scope
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @since
  */
 public class ThreadLocalScope implements Scope {

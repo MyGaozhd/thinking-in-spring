@@ -29,7 +29,7 @@ import java.io.Reader;
 /**
  * 带有字符编码的 {@link FileSystemResourceLoader} 示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @see FileSystemResourceLoader
  * @see FileSystemResource
  * @see EncodedResource

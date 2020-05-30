@@ -27,7 +27,7 @@ import java.util.Set;
 /**
  * {@link Properties} -> {@link String} {@link ConditionalGenericConverter} 实现
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @see Properties
  * @see ConditionalGenericConverter
  * @since

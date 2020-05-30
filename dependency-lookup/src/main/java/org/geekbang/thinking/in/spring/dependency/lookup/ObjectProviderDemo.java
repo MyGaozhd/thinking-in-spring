@@ -25,7 +25,7 @@ import org.springframework.context.annotation.Primary;
 /**
  * 通过 {@link ObjectProvider} 进行依赖查找
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @since
  */
 public class ObjectProviderDemo { // @Configuration 是非必须注解

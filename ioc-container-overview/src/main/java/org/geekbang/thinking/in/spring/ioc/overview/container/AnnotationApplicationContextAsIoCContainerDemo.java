@@ -31,7 +31,7 @@ import java.util.Map;
 /**
  * 注解能力 {@link ApplicationContext} 作为 IoC 容器示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @since
  */
 @Configuration
@@ -59,7 +59,7 @@ public class AnnotationApplicationContextAsIoCContainerDemo {
     public User user() {
         User user = new User();
         user.setId(1L);
-        user.setName("小马哥");
+        user.setName("Servi");
         return user;
     }
 

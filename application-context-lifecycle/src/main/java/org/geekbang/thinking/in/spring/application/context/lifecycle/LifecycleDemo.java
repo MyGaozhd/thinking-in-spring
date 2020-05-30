@@ -25,7 +25,7 @@ import static org.springframework.beans.factory.support.BeanDefinitionBuilder.ro
 /**
  * 自定义 {@link Lifecycle} Bean 示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @see Lifecycle
  * @since
  */

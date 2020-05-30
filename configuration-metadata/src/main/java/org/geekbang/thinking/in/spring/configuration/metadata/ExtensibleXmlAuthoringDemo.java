@@ -23,7 +23,7 @@ import org.springframework.beans.factory.xml.XmlBeanDefinitionReader;
 /**
  * Spring XML 元素扩展示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @since
  */
 public class ExtensibleXmlAuthoringDemo {

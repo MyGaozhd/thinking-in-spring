@@ -30,7 +30,7 @@ import java.util.Collection;
 /**
  * {@link Qualifier} 注解依赖注入
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @see Qualifier
  * @since
  */

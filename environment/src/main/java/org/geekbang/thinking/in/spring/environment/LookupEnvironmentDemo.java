@@ -30,7 +30,7 @@ import static org.springframework.context.ConfigurableApplicationContext.ENVIRON
 /**
  * 依赖查找 {@link Environment} 示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @see Environment
  * @since
  */

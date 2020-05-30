@@ -25,7 +25,7 @@ import java.lang.annotation.*;
 /**
  * 自定义 {@link Component} Scan
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @since
  */
 @Target(ElementType.TYPE)

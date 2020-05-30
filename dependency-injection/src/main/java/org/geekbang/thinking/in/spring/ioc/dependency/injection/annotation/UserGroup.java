@@ -23,7 +23,7 @@ import java.lang.annotation.*;
 /**
  * 用户组注解，扩展 {@link Qualifier @Qualifier}
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @since
  */
 @Target({ElementType.FIELD, ElementType.METHOD, ElementType.PARAMETER, ElementType.TYPE, ElementType.ANNOTATION_TYPE})

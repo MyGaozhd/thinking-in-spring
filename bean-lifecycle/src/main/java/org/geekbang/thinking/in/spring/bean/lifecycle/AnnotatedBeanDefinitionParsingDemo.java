@@ -22,7 +22,7 @@ import org.springframework.context.annotation.AnnotatedBeanDefinitionReader;
 /**
  * 注解 BeanDefinition 解析示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @since
  */
 public class AnnotatedBeanDefinitionParsingDemo {

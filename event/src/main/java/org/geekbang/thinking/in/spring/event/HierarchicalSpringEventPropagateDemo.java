@@ -27,7 +27,7 @@ import java.util.Set;
 /**
  * 层次性 Spring 事件传播实例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @since
  */
 public class HierarchicalSpringEventPropagateDemo {

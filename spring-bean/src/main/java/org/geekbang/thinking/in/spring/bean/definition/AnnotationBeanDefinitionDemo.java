@@ -34,7 +34,7 @@ import static org.springframework.beans.factory.support.BeanDefinitionBuilder.ge
 /**
  * 注解 BeanDefinition 示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @since
  */
 // 3. 通过 @Import 来进行导入
@@ -66,7 +66,7 @@ public class AnnotationBeanDefinitionDemo {
         BeanDefinitionBuilder beanDefinitionBuilder = genericBeanDefinition(User.class);
         beanDefinitionBuilder
                 .addPropertyValue("id", 1L)
-                .addPropertyValue("name", "小马哥");
+                .addPropertyValue("name", "Servi");
 
         // 判断如果 beanName 参数存在时
         if (StringUtils.hasText(beanName)) {
@@ -95,7 +95,7 @@ public class AnnotationBeanDefinitionDemo {
         public User user() {
             User user = new User();
             user.setId(1L);
-            user.setName("小马哥");
+            user.setName("Servi");
             return user;
         }
     }

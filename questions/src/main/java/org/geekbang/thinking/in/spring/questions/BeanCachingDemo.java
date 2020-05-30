@@ -28,7 +28,7 @@ import org.springframework.context.annotation.Scope;
 /**
  * Bean 是否缓存示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @see ObjectFactory
  * @see ObjectProvider
  * @since
@@ -67,7 +67,7 @@ public class BeanCachingDemo {
     public static User user() {
         User user = new User();
         user.setId(1L);
-        user.setName("小马哥");
+        user.setName("Servi");
         return user;
     }
 }

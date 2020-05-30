@@ -33,7 +33,7 @@ import java.util.Set;
 /**
  * {@link ObjectProvider} 实现延迟依赖注入
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @see Qualifier
  * @since
  */

@@ -21,7 +21,7 @@ import java.beans.PropertyEditor;
 /**
  * {@link PropertyEditor} 示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @see PropertyEditor
  * @since
  */
@@ -30,8 +30,8 @@ public class PropertyEditorDemo {
     public static void main(String[] args) {
 
         // 模拟 Spring Framework 操作
-        // 有一段文本 name = 小马哥;
-        String text = "name = 小马哥";
+        // 有一段文本 name = Servi;
+        String text = "name = Servi";
 
         PropertyEditor propertyEditor = new StringToPropertiesPropertyEditor();
         // 传递 String 类型的内容

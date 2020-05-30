@@ -24,7 +24,7 @@ import org.springframework.context.annotation.Bean;
 /**
  * 基于 Java 注解的依赖 Constructor 注入示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @since
  */
 public class AnnotationDependencyConstructorInjectionDemo {

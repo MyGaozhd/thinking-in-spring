@@ -26,7 +26,7 @@ import org.springframework.core.type.AnnotationMetadata;
 /**
  * "HelloWorld" 模块 {@link ImportBeanDefinitionRegistrar}
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @see ImportBeanDefinitionRegistrar
  * @since
  */

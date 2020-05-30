@@ -26,7 +26,7 @@ import java.io.Reader;
 /**
  * {@link Resource} 工具类
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @since
  */
 public interface ResourceUtils {

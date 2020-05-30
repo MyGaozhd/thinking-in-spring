@@ -27,7 +27,7 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
 /**
  * 类型安全 依赖查找示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @since
  */
 public class TypeSafetyDependencyLookupDemo {

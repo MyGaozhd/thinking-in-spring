@@ -31,7 +31,7 @@ import java.util.Properties;
 /**
  * 用户类
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @since
  */
 public class User implements BeanNameAware {
@@ -118,7 +118,7 @@ public class User implements BeanNameAware {
     public static User createUser() {
         User user = new User();
         user.setId(1L);
-        user.setName("小马哥");
+        user.setName("Servi");
         return user;
     }
 

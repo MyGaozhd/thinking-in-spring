@@ -31,14 +31,14 @@ import static org.junit.Assert.assertEquals;
 /**
  * {@link TestPropertySource} 测试示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @see TestPropertySource
  * @since
  */
 @RunWith(SpringRunner.class)
 @ContextConfiguration(classes = TestPropertySourceTest.class) // Spring 注解驱动测试注解
 @TestPropertySource(
-        properties = "user.name = 小马哥", // PropertySource(name=Inlined Test Properties)
+        properties = "user.name = Servi", // PropertySource(name=Inlined Test Properties)
         locations = "classpath:/META-INF/test.properties"
 )
 public class TestPropertySourceTest {
@@ -51,7 +51,7 @@ public class TestPropertySourceTest {
 
     @Test
     public void testUserName() {
-        assertEquals("小马哥", userName);
+        assertEquals("Servi", userName);
 
         for (PropertySource ps : environment.getPropertySources()) {
             System.out.printf("PropertySource(name=%s) 'user.name' 属性：%s\n", ps.getName(), ps.getProperty("user.name"));

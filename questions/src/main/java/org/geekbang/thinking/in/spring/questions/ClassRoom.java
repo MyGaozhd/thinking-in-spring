@@ -23,7 +23,7 @@ import java.util.Collection;
 /**
  * 教师类
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @since
  */
 public class ClassRoom {

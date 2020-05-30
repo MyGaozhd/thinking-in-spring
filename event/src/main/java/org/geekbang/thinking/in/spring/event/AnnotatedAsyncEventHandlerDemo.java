@@ -37,7 +37,7 @@ import static java.util.concurrent.Executors.newSingleThreadExecutor;
 /**
  * 注解驱动异步事件处理器示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @since
  */
 @EnableAsync // 激活 Spring 异步特性

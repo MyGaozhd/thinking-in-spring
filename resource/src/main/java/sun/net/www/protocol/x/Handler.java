@@ -24,7 +24,7 @@ import java.net.URLStreamHandler;
 /**
  * X 协议 {@link URLStreamHandler} 实现
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @since
  */
 public class Handler extends URLStreamHandler {

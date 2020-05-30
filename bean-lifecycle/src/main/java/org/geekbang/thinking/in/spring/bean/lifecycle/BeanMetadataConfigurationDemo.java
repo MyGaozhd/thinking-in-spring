@@ -26,7 +26,7 @@ import org.springframework.core.io.support.EncodedResource;
 /**
  * Bean 元信息配置示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @since
  */
 public class BeanMetadataConfigurationDemo {

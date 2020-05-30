@@ -22,7 +22,7 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
 /**
  * {@link Value @Value} 注解示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @see Value
  * @since
  */

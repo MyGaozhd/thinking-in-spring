@@ -28,7 +28,7 @@ import javax.annotation.PreDestroy;
 /**
  * User Holder 类
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @since
  */
 public class UserHolder implements BeanNameAware, BeanClassLoaderAware, BeanFactoryAware, EnvironmentAware,

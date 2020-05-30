@@ -32,7 +32,7 @@ import java.util.stream.Stream;
 /**
  * 自定义 {@link ResourcePatternResolver} 示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @see ResourcePatternResolver
  * @see PathMatchingResourcePatternResolver
  * @see PathMatcher

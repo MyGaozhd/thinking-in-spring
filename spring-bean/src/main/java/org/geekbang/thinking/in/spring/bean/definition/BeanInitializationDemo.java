@@ -26,7 +26,7 @@ import org.springframework.context.annotation.Lazy;
 /**
  * Bean 初始化 Demo
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @since
  */
 @Configuration // Configuration Class

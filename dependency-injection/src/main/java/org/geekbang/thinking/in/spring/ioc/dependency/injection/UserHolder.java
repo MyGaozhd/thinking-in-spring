@@ -21,7 +21,7 @@ import org.geekbang.thinking.in.spring.ioc.overview.domain.User;
 /**
  * {@link User} 的 Holder 类
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @since
  */
 public class UserHolder {

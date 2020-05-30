@@ -21,7 +21,7 @@ import org.springframework.context.Lifecycle;
 /**
  * 自定义 {@link Lifecycle} 实现
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @since
  */
 public class MyLifecycle implements Lifecycle {

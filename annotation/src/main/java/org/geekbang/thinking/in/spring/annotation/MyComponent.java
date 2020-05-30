@@ -23,7 +23,7 @@ import java.lang.annotation.*;
 /**
  * 自定义 Component "派生性"注解
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @since
  */
 @Target({ElementType.TYPE})

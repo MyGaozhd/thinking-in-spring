@@ -21,7 +21,7 @@ import java.lang.annotation.*;
 /**
  * 自定义依赖注入注解
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @since
  */
 @Target({ElementType.CONSTRUCTOR, ElementType.METHOD, ElementType.FIELD})

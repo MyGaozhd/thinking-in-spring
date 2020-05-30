@@ -24,7 +24,7 @@ import org.springframework.core.type.AnnotatedTypeMetadata;
 /**
  * 偶数 Profile 条件
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @since
  */
 public class EvenProfileCondition implements Condition {

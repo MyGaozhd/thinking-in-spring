@@ -22,7 +22,7 @@ import org.springframework.beans.factory.xml.XmlBeanDefinitionReader;
 /**
  * "byName" Autowiring 依赖 Setter 方法注入示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @since
  */
 public class AutoWiringByNameDependencySetterInjectionDemo {

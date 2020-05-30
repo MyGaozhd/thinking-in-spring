@@ -22,7 +22,7 @@ import org.springframework.beans.factory.FactoryBean;
 /**
  * {@link User} Bean 的 {@link org.springframework.beans.factory.FactoryBean} 实现
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @since
  */
 public class UserFactoryBean implements FactoryBean {

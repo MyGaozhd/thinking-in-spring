@@ -23,7 +23,7 @@ import java.lang.annotation.*;
 /**
  * 激活 "HelloWorld" 模块注解
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @since
  */
 @Target({ElementType.TYPE})

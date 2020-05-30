@@ -22,7 +22,7 @@ import org.springframework.core.type.AnnotationMetadata;
 /**
  * HelloWorld 模块 {@link ImportSelector} 实现
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @see ImportSelector
  * @since
  */

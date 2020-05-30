@@ -21,7 +21,7 @@ import org.geekbang.thinking.in.spring.ioc.overview.annotation.Super;
 /**
  * 超级用户
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @since
  */
 @Super

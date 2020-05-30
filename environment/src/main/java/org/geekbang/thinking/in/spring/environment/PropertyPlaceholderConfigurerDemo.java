@@ -24,7 +24,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 /**
  * {@link PropertyPlaceholderConfigurer} 处理属性占位符示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @since
  */
 public class PropertyPlaceholderConfigurerDemo {

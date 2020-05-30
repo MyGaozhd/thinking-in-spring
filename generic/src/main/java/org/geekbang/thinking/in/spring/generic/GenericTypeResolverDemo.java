@@ -31,7 +31,7 @@ import static org.springframework.core.GenericTypeResolver.resolveReturnTypeArgu
 /**
  * {@link GenericTypeResolver} 示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @see GenericTypeResolver
  * @since
  */

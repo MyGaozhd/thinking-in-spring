@@ -26,7 +26,7 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
 /**
  * 层次性依赖查找示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @since
  */
 public class HierarchicalDependencyLookupDemo {

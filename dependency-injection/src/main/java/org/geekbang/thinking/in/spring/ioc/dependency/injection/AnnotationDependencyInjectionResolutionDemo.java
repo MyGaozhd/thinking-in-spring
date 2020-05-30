@@ -39,7 +39,7 @@ import static org.springframework.context.annotation.AnnotationConfigUtils.AUTOW
 /**
  * 注解驱动的依赖注入处理过程
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @see Qualifier
  * @since
  */

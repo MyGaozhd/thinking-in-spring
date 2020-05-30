@@ -25,7 +25,7 @@ import org.springframework.core.io.Resource;
 /**
  * 外部化配置作为依赖来源示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @since
  */
 @Configuration

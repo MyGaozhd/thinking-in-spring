@@ -27,7 +27,7 @@ import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 /**
  * Web MVC 配置类
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @since
  */
 @Configuration
@@ -41,7 +41,7 @@ public class WebConfiguration {
     public User user() {
         User user = new User();
         user.setId(1L);
-        user.setName("小马哥");
+        user.setName("Servi");
         return user;
     }
 

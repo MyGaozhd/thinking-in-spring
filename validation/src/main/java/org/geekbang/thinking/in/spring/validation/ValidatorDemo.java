@@ -27,7 +27,7 @@ import static org.geekbang.thinking.in.spring.validation.ErrorsMessageDemo.creat
 /**
  * 自定义 Spring {@link Validator} 示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @see Validator
  * @since
  */

@@ -30,7 +30,7 @@ import javax.annotation.PostConstruct;
 /**
  * 注入 {@link ApplicationEventPublisher} 示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @since
  */
 public class InjectingApplicationEventPublisherDemo implements ApplicationEventPublisherAware,

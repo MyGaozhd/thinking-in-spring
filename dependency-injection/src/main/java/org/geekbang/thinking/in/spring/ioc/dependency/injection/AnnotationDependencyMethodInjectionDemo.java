@@ -27,7 +27,7 @@ import javax.annotation.Resource;
 /**
  * 基于 Java 注解的依赖方法注入示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @since
  */
 public class AnnotationDependencyMethodInjectionDemo {

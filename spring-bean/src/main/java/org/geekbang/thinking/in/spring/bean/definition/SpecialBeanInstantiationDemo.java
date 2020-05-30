@@ -32,7 +32,7 @@ import static java.util.ServiceLoader.load;
 /**
  * 特殊的 Bean 实例化示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @since
  */
 public class SpecialBeanInstantiationDemo {

@@ -29,7 +29,7 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
 /**
  * 基于 {@link Aware} 接口回调的依赖注入示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @since
  */
 public class AwareInterfaceDependencyInjectionDemo implements BeanFactoryAware, ApplicationContextAware {

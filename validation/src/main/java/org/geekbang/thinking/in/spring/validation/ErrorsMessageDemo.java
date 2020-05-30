@@ -30,7 +30,7 @@ import java.util.Locale;
 /**
  * 错误文案示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @see Errors
  * @since
  */
@@ -40,7 +40,7 @@ public class ErrorsMessageDemo {
 
         // 0. 创建 User 对象
         User user = new User();
-        user.setName("小马哥");
+        user.setName("Servi");
         // 1. 选择 Errors - BeanPropertyBindingResult
         Errors errors = new BeanPropertyBindingResult(user, "user");
         // 2. 调用 reject 或 rejectValue

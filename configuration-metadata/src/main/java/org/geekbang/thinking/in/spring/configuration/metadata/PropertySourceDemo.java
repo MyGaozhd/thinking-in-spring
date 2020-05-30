@@ -29,14 +29,14 @@ import java.util.Map;
 /**
  * 外部化配置示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @since
  */
 @PropertySource("classpath:/META-INF/user-bean-definitions.properties")
 public class PropertySourceDemo {
 
     /**
-     * user.name 是 Java Properties 默认存在，当前用户：mercyblitz，而非配置文件中定义"小马哥"
+     * user.name 是 Java Properties 默认存在，当前用户：mercyblitz，而非配置文件中定义"Servi"
      *
      * @param id
      * @param name

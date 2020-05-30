@@ -23,7 +23,7 @@ import org.springframework.stereotype.Component;
 /**
  * {@link Component} 扫描示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @see Component
  * @see ComponentScan
  * @since

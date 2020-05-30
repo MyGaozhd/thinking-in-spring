@@ -22,7 +22,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * HelloWorld Configuration Class
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @since
  */
 @Configuration

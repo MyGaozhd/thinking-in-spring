@@ -21,7 +21,7 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
 /**
  * Spring 注解属性覆盖示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @since
  */
 @MyComponentScan2(packages = "org.geekbang.thinking.in.spring.annotation")

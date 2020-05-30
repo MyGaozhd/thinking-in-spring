@@ -29,7 +29,7 @@ import static org.springframework.beans.factory.support.BeanDefinitionBuilder.ro
 /**
  * Spring Shutdown Hook 线程示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @see Lifecycle
  * @since
  */

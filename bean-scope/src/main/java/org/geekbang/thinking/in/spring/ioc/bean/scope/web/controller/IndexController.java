@@ -26,7 +26,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 /**
  * 首页 Spring Web MVC Controller
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author servi
  * @since
  */
 @Controller
